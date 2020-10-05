@@ -1,6 +1,8 @@
 # Math-495-Computational-Mathematics-for-Data-Science
 Special course offered by Iowa State Universities Mathematics department 
 
+This repo is the cumulation of all work done for ISU 495 and is layed out in jupyter notebook. Each project will also have a html file which shows all questions asked and operations used.
+
 Description: Math 495.
 
 <ul>
