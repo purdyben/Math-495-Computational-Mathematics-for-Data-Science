@@ -10,4 +10,12 @@ Catalogue Description:Math 495. Special Topics. Topics depends on who is teachin
 +Optimization used in Data Science including gradient descent algorithm.
 +Basics of Linear Algebra, Matrices, Eigenvalues and Eigen vectors.
 +Vector spaces, inner products, different types of norms and distances.
-+Application of Eigenvalues and Eigenvectors in Data Science.•Some more advanced topics such as sparsity, regularization, graphs and networks etc.Textbook and notes:
++Application of Eigenvalues and Eigenvectors in Data Science.
++Some more advanced topics such as sparsity, regularization, graphs and networks etc.Textbook and notes:
+
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
